@@ -1,0 +1,7 @@
+{
+  "name": "nextjs-cloudflare-pages",
+  "compatibility_date": "2025-06-23",
+  "assets": {
+    "directory": "./out"
+  }
+} 
